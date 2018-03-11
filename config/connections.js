@@ -46,7 +46,7 @@ module.exports.connections = {
    
     user: 'root', //optional
     password: '', //optional
-    database: 'client' //optional
+    database: 'moshpitdev' //optional
   },
 
   /***************************************************************************
@@ -63,7 +63,7 @@ module.exports.connections = {
     port: 27017,
     //user: 'username', //optional
     //password: 'password', //optional
-    database: 'articlebase' //optional
+    database: 'moshpitdev' //optional
   },
 
   /***************************************************************************
